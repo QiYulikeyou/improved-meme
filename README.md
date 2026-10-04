@@ -4,8 +4,10 @@
 
 ## 在线访问
 
-- 仓库根路径部署（`<用户名>.github.io`）：`https://<用户名>.github.io/`
-- 子路径部署（如仓库名 `xingyan-resume`）：`https://<用户名>.github.io/xingyan-resume/`
+**https://qiyulikeyou.github.io/xingyan-resume/**
+
+> 仓库为子路径部署（仓库名 `xingyan-resume`）。站点资源引用为绝对路径 `/xingyan-resume/assets/...`，
+> 是构建时按 `CLIENT_BASE_PATH=/xingyan-resume/` 生成的，不要改仓库名或迁移到根路径，否则资源会 404。
 
 ## 内容
 
