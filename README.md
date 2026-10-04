@@ -4,10 +4,10 @@
 
 ## 在线访问
 
-**https://qiyulikeyou.github.io/xingyan-resume/**
+**https://qiyulikeyou.github.io/improved-meme/**
 
-> 仓库为子路径部署（仓库名 `xingyan-resume`）。站点资源引用为绝对路径 `/xingyan-resume/assets/...`，
-> 是构建时按 `CLIENT_BASE_PATH=/xingyan-resume/` 生成的，不要改仓库名或迁移到根路径，否则资源会 404。
+> 仓库为子路径部署（仓库名 `improved-meme`）。站点资源引用为绝对路径 `/improved-meme/assets/...`，
+> 是构建时按 `CLIENT_BASE_PATH=/improved-meme/` 生成的，**不要改仓库名、也不要迁移到根路径**，否则资源会 404。
 
 ## 内容
 
